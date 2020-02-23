@@ -24,6 +24,6 @@ total_count
 ```
 Type here: <key's name>
 ```
-## Acknowledgments:
+## Conclusions:
 Easy to use program for going trough JSON file.
 
